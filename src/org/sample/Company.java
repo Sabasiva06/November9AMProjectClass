@@ -17,6 +17,8 @@ public class Company {
 	public void parentThree() {
 		// TODO Auto-generated method stub
 		System.out.println("parentThree");
+		System.out.println("code for Branch A");
+		System.out.println("to be mergerd with master");
 	}
 	
 }

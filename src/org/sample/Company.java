@@ -19,6 +19,8 @@ public class Company {
 		System.out.println("parentThree");
 		System.out.println("code for Branch A");
 		System.out.println("to be mergerd with master");
+		System.out.println("work done by C");
+		System.out.println("new Joiner C");
 	}
 	
 }
